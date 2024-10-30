@@ -10,7 +10,7 @@
 
 - Python 3 (pokud nemáš python nainstalovaný, podívej se na https://naucse.python.cz/course/pyladies/),
 - pipenv ( `pip install --user pipenv` pro Windows, https://pypi.org/project/pipenv/#installation pro Linux dle distribuce).
-  (Pokud se při instalaci na Windows vyskytla [chyba s proměnnou PATH](PATH%20warning.md).)
+  (Pokud se při instalaci na Windows vyskytla [chyba s proměnnou PATH](PATH_warning.md).)
 
 #### Spuštění
 
